@@ -28,12 +28,11 @@ The app utilizes the Bloc architecture for state management and incorporates err
    ```bash
    flutter pub get
    
-Run the App
+
 Run the app on an emulator or physical device using the following command:
 
-   ```bash
    flutter run
-    
+
 ### State Management
 The app uses the Bloc architecture for efficient state management. Key Bloc classes include:
 
