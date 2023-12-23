@@ -1,10 +1,5 @@
-![image 7](https://github.com/Jayjerome/Task_manager_application/assets/42614202/5abe4a73-3e5d-4b58-b26f-4e401694f7ad)
-![image 6](https://github.com/Jayjerome/Task_manager_application/assets/42614202/607b95cb-cf1b-4f0f-8acb-2fab49e0acfb)
-![image 5](https://github.com/Jayjerome/Task_manager_application/assets/42614202/8df26a53-8ba5-4cf0-a934-fb3c3693a20d)
-![image 4](https://github.com/Jayjerome/Task_manager_application/assets/42614202/aa47776a-2174-47cf-8895-bef6b4c7a0c1)
-![image 3](https://github.com/Jayjerome/Task_manager_application/assets/42614202/db4a3a08-c95c-4e63-b400-76a16c1b4800)
-![image 2](https://github.com/Jayjerome/Task_manager_application/assets/42614202/58cb7839-785d-4a8b-afc5-b55fef25e959)
-![image 1](https://github.com/Jayjerome/Task_manager_application/assets/42614202/fa84423f-8d3b-403f-8091-1c89794e2eb9)
+![Frame 3](https://github.com/Jayjerome/Task_manager_application/assets/42614202/d896475d-0835-493a-a89f-11df1371e06e)
+
 # Task Manager App
 
 ## Overview
